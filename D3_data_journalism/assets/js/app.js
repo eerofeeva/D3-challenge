@@ -63,7 +63,7 @@ var svg = d3.select("#scatter")
         .attr("fill", "lightblue")
         .attr("opacity", ".6")
         .attr("stroke-width", "1")
-        .attr("stroke", "black");
+        .attr("stroke", "darkblue");
 
         chartGroup.select("g")
         .selectAll("circle")
