@@ -1,3 +1,6 @@
+I focused on creating of the bare graph. The app.js file contains all code for running the graph.
+
+
 # D3 Homework - Data Journalism and D3
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
